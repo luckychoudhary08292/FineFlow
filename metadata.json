@@ -1,0 +1,6 @@
+{
+  "name": "FinWallet - Digital Wallet & Expense Splitter",
+  "description": "A comprehensive fintech digital wallet for managing balances, cards, transfers, QR payments, and group expense splitting with analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
